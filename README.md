@@ -5,7 +5,7 @@ This project predicts the likelihood of Autism Spectrum Disorder (ASD) based on 
 ## 🚀 Features  
 - Data preprocessing & cleaning  
 - Exploratory Data Analysis (EDA)  
-- Training multiple ML models (e.g., Logistic Regression, Random Forest, SVM)  
+- Training multiple ML models (e.g., Decision Tree, Random Forest, XGBoost)  
 - Model evaluation using accuracy, precision, recall & F1-score  
 - Final autism prediction model  
 
@@ -13,12 +13,12 @@ This project predicts the likelihood of Autism Spectrum Disorder (ASD) based on 
 The dataset contains features such as:  
 - Age, gender, family history  
 - Behavioral screening test scores  
-- Yes/No answers to key diagnostic questions  
+- Yes/No answers to key diagnostic questions
 
-*(You can add dataset source if public)*  
+The dataset is included in the `data/` folder for easy access.
 
 ## 🛠️ Tech Stack  
-- Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn)  
+- Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, XGBoost, Imbalanced-Learn (SMOTE),)  
 - Jupyter Notebook  
 
 ## 📊 Model Performance  
