@@ -30,10 +30,13 @@ The dataset is included in the `data/` folder for easy access.
 1. Clone the repository  
    git clone https://github.com/Akshit-Vats/autism-prediction-ml.git
    cd autism-prediction-ml
-2. Install dependencies
+
+3. Install dependencies
    pip install -r requirements.txt
-3. Run the notebook
+   
+5. Run the notebook
    jupyter notebook autism_prediction_ml.ipynb
+   
 
 ## 📜 Future Improvements
 - Deploy as a web app using Flask/Streamlit
