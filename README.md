@@ -22,9 +22,7 @@ The dataset is included in the `data/` folder for easy access.
 - Jupyter Notebook  
 
 ## 📊 Model Performance  
-- Accuracy: XX%  
-- Precision: XX%  
-- Recall: XX%  
+- Accuracy: 90%
 
 ## ▶️ How to Run  
 1. Clone the repository  
