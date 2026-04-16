@@ -21,8 +21,10 @@ The dataset is included in the `data/` folder for easy access.
 - Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, XGBoost, Imbalanced-Learn (SMOTE),)  
 - Jupyter Notebook  
 
-## 📊 Model Performance  
-- Accuracy: 90%
+## 📊 Model Performance (accuracy) 
+- Random Forest: 83.13%
+- XGBoost: 80.63%
+- Decision Tree: 80.63%
 
 ## ▶️ How to Run  
 1. Clone the repository  
